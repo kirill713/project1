@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone = "no" ?>
+<manifest identifier="_&quot;Net-smerti-dlia-togo,-kto-liubit-zizn:-taina-smerti-S.-A.-Esenina&quot;-09ae1aac-0e4e-45ac-8f6f-6e34fa2ffb2d" version="1"
+                        xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+          xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3"
+          xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3"
+          xmlns:imsss="http://www.imsglobal.org/xsd/imsss"
+          xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                              http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd"
+    >
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>2004 3rd Edition</schemaversion>
+            </metadata>
+
+    <organizations default="&quot;Net-smerti-dlia-togo,-kto-liubit-zizn:-taina-smerti-S.-A.-Esenina&quot;-09ae1aac-0e4e-45ac-8f6f-6e34fa2ffb2d_ORG">
+        <organization identifier="&quot;Net-smerti-dlia-togo,-kto-liubit-zizn:-taina-smerti-S.-A.-Esenina&quot;-09ae1aac-0e4e-45ac-8f6f-6e34fa2ffb2d_ORG">
+            <title>&quot;Нет смерти для того, кто любит жизнь: тайна смерти С. А. Есенина&quot;</title>
+            <item identifier="&quot;Net-smerti-dlia-togo,-kto-liubit-zizn:-taina-smerti-S.-A.-Esenina&quot;-09ae1aac-0e4e-45ac-8f6f-6e34fa2ffb2d__SCO" identifierref="__&quot;Net-smerti-dlia-togo,-kto-liubit-zizn:-taina-smerti-S.-A.-Esenina&quot;-09ae1aac-0e4e-45ac-8f6f-6e34fa2ffb2d_RES" isvisible="true">
+                <title>&quot;Нет смерти для того, кто любит жизнь: тайна смерти С. А. Есенина&quot;</title>
+            </item>
+        </organization>
+    </organizations>
+
+    <resources>
+        <resource identifier="__&quot;Net-smerti-dlia-togo,-kto-liubit-zizn:-taina-smerti-S.-A.-Esenina&quot;-09ae1aac-0e4e-45ac-8f6f-6e34fa2ffb2d_RES" type="webcontent"  adlcp:scormType="sco"  href="index.html">
+            <file href="index.html"/>
+            <file href="css/course.css"/>
+            <file href="css/tw-elements.min.css"/>
+            <file href="css/app.css"/>
+            <file href="js/SCORM_API_wrapper.js"/>
+            <file href="js/course.js"/>
+            <file href="js/index.min.js"/>
+            <file href="2446/images/E3i0DaEaRKGxab8vowLGbXI1eBDQMxYCpd8RfdKa.jpg"/>
+            <file href="images/content/32AyVV5V9VyH1nGImEMQyNp7KzTSFIs1hjzByuBz.jpg"/><file href="images/content/IoTMPdMJccTWu04G0t2DrIHNN7neh4Nh5MvyhPQX.jpg"/><file href="images/content/JOhIY0ZFkKLcaiXeReenCkjv2DeZXIaeN7JxVSsj.jpg"/><file href="images/content/PhoUaNHx5Ab2cSzdU8Iz8diR9riYAxoyNqL0Mhyq.jpg"/><file href="images/content/RmXKZdqrO6uU0cix8nqRnNGX9pyqD09bHfHrFySZ.jpg"/><file href="images/content/UUPzLc50tJiYSkhZsJH6OQmaDakYtQ9nWXeb80Sq.jpg"/><file href="images/content/XWdetszxakA6tzFmTuP6jbVU69Ho2Fh0VY4Llip8.jpg"/><file href="images/content/audio-block.png"/><file href="images/content/evhDdHH8kATTZOtkwyfIIPWA6I9NLtyjWupolT7U.jpg"/><file href="images/content/image-block.png"/><file href="images/content/l1qDI4HastfHDHJCf7qYeKxaupMIjF67tgSxeGQB.jpg"/><file href="images/content/text-with-image-block.png"/><file href="videos/1bSxxFC9mnOW0oCZe6bYg2duCsPhEsa4YCU7Lj5G.mp4"/><file href="videos/mixkit-going-down-a-curved-highway-through-a-mountain-range-41576.mov"/><file href="sounds/content/4isdSqYJgHddFzNAmfqP7ribjCstSTDCIyWaSK6T.mp3"/><file href="sounds/content/9f0reGBvKxC9FZmrLXv0SoXV6Vb26a5OhqZwSwJC.mp3"/><file href="sounds/content/F6UuTW84fliYax8svpVzI2oTO2ODwCUfFeWqya0O.mp3"/><file href="sounds/content/LTSMF3cLfNrKlmIiYH9INXxFmqAgvUH9pxsBwJVr.mp3"/><file href="sounds/content/PZoZJlCEZWg20rbDuLHHj4BY1ka7yFAb1a4l4s6d.mp3"/><file href="sounds/content/c0TS7qmijj5YgZpXIZr57R40Z4oEWm6fTJWYWdSq.mp3"/><file href="sounds/content/orchestrawav-26158.mp3"/><file href="images/E3i0DaEaRKGxab8vowLGbXI1eBDQMxYCpd8RfdKa.jpg"/>
+        </resource>
+    </resources>
+</manifest>
